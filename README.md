@@ -1,7 +1,7 @@
 To start use IDE and -> HybrisProject / src / sample / Main.java 
  
 To create and work with the database: 
-1) Fill in the file your data -> HybrisProject / config / local.properties file 
+1) Fill in the file your data -> HybrisProject / config / local.properties 
 2) Use the following script
 
 CREATE DATABASE store;
